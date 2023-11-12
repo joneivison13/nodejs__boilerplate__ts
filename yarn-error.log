@@ -1,0 +1,46 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Pc\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express jsonwebtokens winston prisma
+
+PATH: 
+  C:\Python310\Scripts\;C:\Python310\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Users\Pc\.console-ninja\.bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Pc\AppData\Local\Microsoft\WindowsApps;C:\Users\Pc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Pc\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/jsonwebtokens: Not found
+      at params.callback [as _callback] (C:\Users\Pc\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66145:18)
+      at self.callback (C:\Users\Pc\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140890:22)
+      at Request.emit (node:events:514:28)
+      at Request.<anonymous> (C:\Users\Pc\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141862:10)
+      at Request.emit (node:events:514:28)
+      at IncomingMessage.<anonymous> (C:\Users\Pc\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141784:12)
+      at Object.onceWrapper (node:events:628:28)
+      at IncomingMessage.emit (node:events:526:35)
+      at endReadableNT (node:internal/streams/readable:1408:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  {
+    "name": "netflixbackendwithmicroservices",
+    "version": "0.0.1",
+    "description": "",
+    "main": "src/server.ts",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "Joneivison13",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

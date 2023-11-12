@@ -1,0 +1,36 @@
+{
+  "name": "projectname",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "npx jest",
+    "dev": "tsx watch src/index.ts",
+    "clear:logs": "node utilities/clearLogs.js"
+  },
+  "author": "Joneivison13",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.5.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/cors": "^2.8.16",
+    "@types/express": "^4.17.21",
+    "@types/jest": "^29.5.8",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/morgan": "^1.9.9",
+    "@types/supertest": "^2.0.16",
+    "prisma": "^5.5.2",
+    "supertest": "^6.3.3",
+    "ts-jest": "^29.1.1",
+    "tsx": "^4.1.1",
+    "typescript": "^5.2.2"
+  }
+}
