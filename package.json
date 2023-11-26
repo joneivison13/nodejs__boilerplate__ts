@@ -6,6 +6,7 @@
   "scripts": {
     "test": "npx jest",
     "dev": "tsx watch src/index.ts",
+    "start": "npx tsc && node dist/src/index.js",
     "clear:logs": "node utilities/clearLogs.js"
   },
   "author": "Joneivison13",
@@ -13,6 +14,7 @@
   "dependencies": {
     "@prisma/client": "^5.5.2",
     "cors": "^2.8.5",
+    "esbuild": "^0.19.7",
     "express": "^4.18.2",
     "morgan": "^1.10.0",
     "winston": "^3.11.0"
