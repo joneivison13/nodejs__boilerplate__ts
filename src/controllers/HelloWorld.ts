@@ -8,8 +8,6 @@ export default class HelloWorldController {
     this.handle = this.handle.bind(this);
   }
   async handle(req: Request, res: Response) {
-    setTimeout(async () => {
-      return res.json(await this.useCase.execute());
-    }, 5000);
+    return res.json(await this.useCase.execute());
   }
 }
