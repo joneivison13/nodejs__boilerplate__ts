@@ -9,3 +9,58 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+model Auth {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  password  String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Person {
+  id          String   @id @default(cuid())
+  name        String
+  nacionality String
+  document    String
+  birthDate   DateTime
+  gender      String
+  phone       String
+  telephone   String
+  is_client   Boolean  @default(false)
+
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  Address   Address[]
+  Document  Document[]
+}
+
+model Address {
+  id     String @id @default(cuid())
+  street String
+  city   String
+  state  String
+
+  personId  String
+  person    Person   @relation(fields: [personId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+enum DocumentType {
+  RG
+  CNH
+}
+
+model Document {
+  id       String       @id @default(cuid())
+  type     DocumentType
+  value    String
+  file_dir String?
+  file     String?
+  personId String
+  person   Person       @relation(fields: [personId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

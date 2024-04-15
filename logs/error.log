@@ -3,3 +3,542 @@
 2023-11-26T19:38:26.901Z error: Worker 4381 died
 2023-11-26T19:38:26.902Z error: Worker 4381 has died
 2023-11-26T19:42:37.875Z error: Worker 4712 died
+2024-04-10T23:19:21.368Z error: Bad Request
+2024-04-10T23:19:21.375Z error: {"error": "Internal Server Error"}
+2024-04-10T23:20:25.830Z error: Bad Request
+2024-04-10T23:20:25.834Z error: {"error": "Internal Server Error"}
+2024-04-11T00:08:06.651Z error: [object Object]
+2024-04-11T00:08:06.662Z error: Worker 4876 died
+2024-04-11T00:08:06.667Z error: Worker 4876 has died
+2024-04-11T00:08:40.423Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:08:40.434Z error: Worker 19208 died
+2024-04-11T00:08:40.441Z error: Worker 19208 has died
+2024-04-11T00:09:26.044Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:09:26.057Z error: Worker 16680 died
+2024-04-11T00:09:26.063Z error: Worker 16680 has died
+2024-04-11T00:09:55.564Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:09:55.576Z error: Worker 18696 died
+2024-04-11T00:09:55.583Z error: Worker 18696 has died
+2024-04-11T00:10:23.038Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:10:23.050Z error: Worker 19236 died
+2024-04-11T00:10:23.056Z error: Worker 19236 has died
+2024-04-11T00:10:39.123Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:10:39.135Z error: Worker 16548 died
+2024-04-11T00:10:39.140Z error: Worker 16548 has died
+2024-04-11T00:10:57.037Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:10:57.049Z error: Worker 7244 died
+2024-04-11T00:10:57.054Z error: Worker 7244 has died
+2024-04-11T00:11:18.603Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:11:18.603Z error: klsdfklsdfgkl
+2024-04-11T00:12:02.305Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:12:52.706Z error: {
+  "statusCode": 400
+}
+2024-04-11T00:12:53.916Z error: {
+  "statusCode": 400
+}
+2024-04-11T00:13:13.003Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:15:27.434Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:15:27.445Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\"error\": \"Internal Server Error\"}"
+}
+2024-04-11T00:16:17.627Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:16:17.639Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\"error\": \"Internal Server Error\"}"
+}
+2024-04-11T00:18:00.366Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:18:00.377Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\",\n        message: '{\"error\": \"Internal Server Error\"}',\n        name: \"Error\",\n        statusCode: 500,\n      }"
+}
+2024-04-11T00:18:33.094Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:18:33.106Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\", \n      }"
+}
+2024-04-11T00:19:21.803Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:19:21.815Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\", \n      }"
+}
+2024-04-11T00:19:40.028Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:19:40.039Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\", \n      }"
+}
+2024-04-11T00:21:15.332Z error: {}
+2024-04-11T00:22:04.365Z error: {}
+2024-04-11T00:22:20.197Z error: {}
+2024-04-11T00:22:42.988Z error: {}
+2024-04-11T00:23:05.338Z error: {}
+2024-04-11T00:23:16.312Z error: {}
+2024-04-11T00:24:01.945Z error: {}
+2024-04-11T00:24:59.531Z error: {}
+2024-04-11T00:25:22.980Z error: {}
+2024-04-11T00:26:04.096Z error: {}
+2024-04-11T00:26:13.530Z error: {}
+2024-04-11T00:26:34.442Z error: {}
+2024-04-11T00:27:08.793Z error: {}
+2024-04-11T00:27:24.229Z error: {}
+2024-04-11T00:27:52.015Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:27:59.245Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:28:08.958Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:28:18.775Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:29:25.472Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:29:47.490Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:29:47.490Z error: klsdkldfkl
+2024-04-11T00:30:03.833Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:30:03.834Z error: klsdkldfkl
+2024-04-11T00:31:22.685Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:31:22.686Z error: 0
+2024-04-11T00:31:22.686Z error: false
+2024-04-11T00:31:28.576Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:31:28.577Z error: false
+2024-04-11T00:31:28.577Z error: false
+2024-04-11T00:31:37.565Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:31:37.565Z error: E
+2024-04-11T00:31:37.565Z error: [
+2024-04-11T00:32:01.006Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:32:17.599Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create(\nUnique constraint failed on the fields: (`email`)"
+2024-04-11T00:32:18.119Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create(\nUnique constraint failed on the fields: (`email`)"
+2024-04-11T00:35:25.352Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"aaaa\",\n            email: \"aaaa@aaa.com\",\n            ~~~~~\n            nacionality: \"brazileiro\",\n            document: \"1111\",\n            birthDate: new Date(\"2023-09-07T00:00:00.000Z\"),\n            gender: \"M\",\n            phone: \"11111111111\",\n            telephone: \"11111111111\",\n        ?   id?: String,\n        ?   createdAt?: DateTime,\n        ?   updatedAt?: DateTime,\n        ?   Address?: AddressCreateNestedManyWithoutPersonInput,\n        ?   Document?: DocumentCreateNestedManyWithoutPersonInput\n          }\n        })\n\nUnknown argument `email`. Available options are marked with ?."
+2024-04-11T00:37:04.079Z error: "[{\"code\":\"unrecognized_keys\",\"keys\":[\"email\"],\"path\":[],\"message\":\"Unrecognized key(s) in object: 'email'\"}]"
+2024-04-11T14:51:32.397Z error: "Person not found"
+2024-04-11T17:11:23.895Z error: "ENOENT: no such file or directory, open 'C:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\temp\\uploads\\1712855483893-image\\jpeg'"
+2024-04-11T20:34:28.439Z error: "[\n  {\n    \"expected\": \"'RG' | 'CNH'\",\n    \"received\": \"undefined\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"type\"\n    ],\n    \"message\": \"Required\"\n  },\n  {\n    \"code\": \"invalid_type\",\n    \"expected\": \"string\",\n    \"received\": \"undefined\",\n    \"path\": [\n      \"value\"\n    ],\n    \"message\": \"Required\"\n  }\n]"
+2024-04-11T20:35:13.942Z error: "[\n  {\n    \"code\": \"invalid_type\",\n    \"expected\": \"string\",\n    \"received\": \"undefined\",\n    \"path\": [\n      \"street\"\n    ],\n    \"message\": \"Required\"\n  }\n]"
+2024-04-11T20:36:47.199Z error: "[{\"code\":\"invalid_type\",\"expected\":\"date\",\"received\":\"string\",\"path\":[\"birthDate\"],\"message\":\"Expected date, received string\"}]"
+2024-04-12T01:13:44.544Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"name\"],\"message\":\"Required\"}]"
+2024-04-12T01:13:56.615Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"name\"],\"message\":\"Required\"}]"
+2024-04-12T01:19:50.024Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"\",\n            nacionality: \"\",\n            document: \"\",\n            birthDate: new Date(\"Invalid Date\"),\n                       ~~~~~~~~~~~~~~~~~~~~~~~~\n            gender: \"\",\n            phone: \"\",\n            telephone: \"\"\n          }\n        })\n\nInvalid value for argument `birthDate`: Provided Date object is invalid. Expected Date."
+2024-04-12T01:21:25.484Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"\",\n            nacionality: \"\",\n            document: \"\",\n            birthDate: new Date(\"Invalid Date\"),\n                       ~~~~~~~~~~~~~~~~~~~~~~~~\n            gender: \"\",\n            phone: \"\",\n            telephone: \"\"\n          }\n        })\n\nInvalid value for argument `birthDate`: Provided Date object is invalid. Expected Date."
+2024-04-12T01:22:09.610Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"\",\n            nacionality: \"\",\n            document: \"\",\n            birthDate: new Date(\"Invalid Date\"),\n                       ~~~~~~~~~~~~~~~~~~~~~~~~\n            gender: \"\",\n            phone: \"\",\n            telephone: \"\"\n          }\n        })\n\nInvalid value for argument `birthDate`: Provided Date object is invalid. Expected Date."
+2024-04-12T01:23:06.282Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:27:47.033Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:28:15.038Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:29:11.919Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:29:44.901Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:30:56.176Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:31:15.427Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:31:22.618Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]}]"
+2024-04-12T01:32:41.436Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]}]"
+2024-04-12T01:32:41.712Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]}]"
+2024-04-12T01:35:31.307Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:35:47.530Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:36:38.547Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:51:20.686Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:11:44\n\n   8 async execute(document: DocumentSchema, person: string) {\n   9   try {\n  10     documentSchema.parse(document);\n→ 11     const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T01:51:56.687Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:11:44\n\n   8 async execute(document: DocumentSchema, person: string) {\n   9   try {\n  10     documentSchema.parse(document);\n→ 11     const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T17:32:16.956Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:12:44\n\n   9 try {\n  10   documentSchema.parse(document);\n  11   console.log({ document });\n→ 12   const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T17:32:54.263Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:12:44\n\n   9 try {\n  10   documentSchema.parse(document);\n  11   console.log({ document });\n→ 12   const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-13T01:52:29.466Z error: "Person not found"
+2024-04-13T01:52:29.471Z error: "Person not found"
+2024-04-13T01:53:17.664Z error: "Person not found"
+2024-04-13T01:53:17.668Z error: "Person not found"
+2024-04-13T01:54:16.998Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "aaaas",
+             city: "asas",
+             state: "aaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:54:17.002Z error: "Person not found"
+2024-04-13T01:54:17.008Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "1a1a1aa",
+             city: "aaaaa",
+             state: "aaaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:54:17.014Z error: "Person not found"
+2024-04-13T01:55:16.347Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "aaaas",
+             city: "asas",
+             state: "aaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:55:16.350Z error: [object Object]
+2024-04-13T01:55:16.351Z error: "Person not found"
+2024-04-13T01:55:16.356Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "1a1a1aa",
+             city: "aaaaa",
+             state: "aaaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:55:16.360Z error: [object Object]
+2024-04-13T01:55:16.361Z error: "Person not found"
+2024-04-13T01:56:31.481Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "aaaas",
+             city: "asas",
+             state: "aaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:56:31.484Z error: {
+  "address": {
+    "street": "aaaas",
+    "city": "asas",
+    "state": "aaaa"
+  }
+}
+2024-04-13T01:56:31.485Z error: "Person not found"
+2024-04-13T01:56:31.490Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "1a1a1aa",
+             city: "aaaaa",
+             state: "aaaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:56:31.495Z error: {
+  "address": {
+    "street": "1a1a1aa",
+    "city": "aaaaa",
+    "state": "aaaaa"
+  }
+}
+2024-04-13T01:56:31.496Z error: "Person not found"

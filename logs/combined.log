@@ -113,3 +113,1538 @@
 2023-12-27T21:27:54.547Z info: Worker 717 started. Server is running on port 3333
 2023-12-27T21:27:57.596Z info: ::ffff:127.0.0.1 - ---- [27/Dec/2023:21:27:57 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.618 ms
 
+2024-04-10T22:29:29.538Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:29:29 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.962 ms
+
+2024-04-10T22:34:30.060Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:34:30 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.906 ms
+
+2024-04-10T22:34:55.488Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:34:55 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.279 ms
+
+2024-04-10T22:35:30.222Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:35:30 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.266 ms
+
+2024-04-10T22:36:26.683Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:36:26 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.076 ms
+
+2024-04-10T22:37:05.514Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:37:05 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.023 ms
+
+2024-04-10T22:37:42.269Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:37:42 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.983 ms
+
+2024-04-10T22:38:22.979Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:38:22 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.954 ms
+
+2024-04-10T22:42:29.824Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:42:29 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.915 ms
+
+2024-04-10T22:42:35.568Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:42:35 +0000] "GET / HTTP/1.1" 200 19 "undefined" 1.992 ms
+
+2024-04-10T22:42:56.578Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:42:56 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.031 ms
+
+2024-04-10T22:43:11.908Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:43:11 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.295 ms
+
+2024-04-10T22:46:13.936Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:22:46:13 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.297 ms
+
+2024-04-10T23:13:54.644Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:13:54 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.432 ms
+
+2024-04-10T23:14:52.286Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:14:52 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.308 ms
+
+2024-04-10T23:15:29.947Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:15:29 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.269 ms
+
+2024-04-10T23:15:56.645Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:15:56 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.269 ms
+
+2024-04-10T23:16:17.294Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:16:17 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.358 ms
+
+2024-04-10T23:18:14.399Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:18:14 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.231 ms
+
+2024-04-10T23:19:21.368Z error: Bad Request
+2024-04-10T23:19:21.375Z error: {"error": "Internal Server Error"}
+2024-04-10T23:19:21.575Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:19:21 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.292 ms
+
+2024-04-10T23:20:25.830Z error: Bad Request
+2024-04-10T23:20:25.834Z error: {"error": "Internal Server Error"}
+2024-04-10T23:20:26.023Z info: ::ffff:127.0.0.1 - ---- [10/Apr/2024:23:20:26 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.503 ms
+
+2024-04-11T00:05:49.301Z info: Master process 18180 is running
+2024-04-11T00:05:49.930Z info: Worker 3416 started. Server is running on port 3333
+2024-04-11T00:06:00.875Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:06:00 +0000] "GET /person HTTP/1.1" 200 2 "insomnia/2023.5.8" 19.004 ms
+
+2024-04-11T00:07:04.248Z info: Master process 4200 is running
+2024-04-11T00:07:04.620Z info: Worker 6816 started. Server is running on port 3333
+2024-04-11T00:07:14.555Z info: Master process 18464 is running
+2024-04-11T00:07:14.947Z info: Worker 4876 started. Server is running on port 3333
+2024-04-11T00:08:06.651Z error: [object Object]
+2024-04-11T00:08:06.662Z error: Worker 4876 died
+2024-04-11T00:08:06.667Z error: Worker 4876 has died
+2024-04-11T00:08:07.070Z info: Worker 19396 started. Server is running on port 3333
+2024-04-11T00:08:07.077Z info: Worker 9588 started. Server is running on port 3333
+2024-04-11T00:08:39.861Z info: Master process 9436 is running
+2024-04-11T00:08:40.289Z info: Worker 19208 started. Server is running on port 3333
+2024-04-11T00:08:40.423Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:08:40.434Z error: Worker 19208 died
+2024-04-11T00:08:40.441Z error: Worker 19208 has died
+2024-04-11T00:08:40.837Z info: Worker 12292 started. Server is running on port 3333
+2024-04-11T00:08:40.837Z info: Worker 2784 started. Server is running on port 3333
+2024-04-11T00:09:19.614Z info: Master process 18596 is running
+2024-04-11T00:09:19.993Z info: Worker 18968 started. Server is running on port 3333
+2024-04-11T00:09:24.688Z info: Master process 1664 is running
+2024-04-11T00:09:25.051Z info: Worker 16680 started. Server is running on port 3333
+2024-04-11T00:09:26.044Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:09:26.057Z error: Worker 16680 died
+2024-04-11T00:09:26.063Z error: Worker 16680 has died
+2024-04-11T00:09:26.457Z info: Worker 19452 started. Server is running on port 3333
+2024-04-11T00:09:26.457Z info: Worker 2996 started. Server is running on port 3333
+2024-04-11T00:09:41.215Z info: Master process 18356 is running
+2024-04-11T00:09:41.585Z info: Worker 18696 started. Server is running on port 3333
+2024-04-11T00:09:55.564Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:09:55.576Z error: Worker 18696 died
+2024-04-11T00:09:55.583Z error: Worker 18696 has died
+2024-04-11T00:09:55.976Z info: Worker 3288 started. Server is running on port 3333
+2024-04-11T00:09:55.976Z info: Worker 16128 started. Server is running on port 3333
+2024-04-11T00:10:14.520Z info: Master process 19072 is running
+2024-04-11T00:10:14.896Z info: Worker 19408 started. Server is running on port 3333
+2024-04-11T00:10:19.961Z info: Master process 18632 is running
+2024-04-11T00:10:20.326Z info: Worker 19236 started. Server is running on port 3333
+2024-04-11T00:10:23.038Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:10:23.050Z error: Worker 19236 died
+2024-04-11T00:10:23.056Z error: Worker 19236 has died
+2024-04-11T00:10:23.456Z info: Worker 8924 started. Server is running on port 3333
+2024-04-11T00:10:23.457Z info: Worker 18912 started. Server is running on port 3333
+2024-04-11T00:10:37.700Z info: Master process 19248 is running
+2024-04-11T00:10:38.075Z info: Worker 16548 started. Server is running on port 3333
+2024-04-11T00:10:39.123Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:10:39.135Z error: Worker 16548 died
+2024-04-11T00:10:39.140Z error: Worker 16548 has died
+2024-04-11T00:10:39.633Z info: Worker 8268 started. Server is running on port 3333
+2024-04-11T00:10:39.633Z info: Worker 19308 started. Server is running on port 3333
+2024-04-11T00:10:55.083Z info: Master process 6208 is running
+2024-04-11T00:10:55.498Z info: Worker 7244 started. Server is running on port 3333
+2024-04-11T00:10:57.037Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:10:57.049Z error: Worker 7244 died
+2024-04-11T00:10:57.054Z error: Worker 7244 has died
+2024-04-11T00:10:57.470Z info: Worker 8960 started. Server is running on port 3333
+2024-04-11T00:10:57.471Z info: Worker 16976 started. Server is running on port 3333
+2024-04-11T00:11:17.292Z info: Master process 19032 is running
+2024-04-11T00:11:17.675Z info: Worker 16680 started. Server is running on port 3333
+2024-04-11T00:11:18.603Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:11:18.603Z error: klsdfklsdfgkl
+2024-04-11T00:11:18.607Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:11:18 +0000] "POST /person/create HTTP/1.1" 500 137 "insomnia/2023.5.8" 4.729 ms
+
+2024-04-11T00:11:45.061Z info: Master process 9788 is running
+2024-04-11T00:11:45.441Z info: Worker 9768 started. Server is running on port 3333
+2024-04-11T00:11:57.219Z info: Master process 19044 is running
+2024-04-11T00:11:57.647Z info: Worker 16452 started. Server is running on port 3333
+2024-04-11T00:12:01.670Z info: Master process 17248 is running
+2024-04-11T00:12:02.140Z info: Worker 5312 started. Server is running on port 3333
+2024-04-11T00:12:02.305Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:12:02.309Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:12:02 +0000] "POST /person/create HTTP/1.1" 500 137 "insomnia/2023.5.8" 4.502 ms
+
+2024-04-11T00:12:52.263Z info: Master process 19356 is running
+2024-04-11T00:12:52.657Z info: Worker 18992 started. Server is running on port 3333
+2024-04-11T00:12:52.706Z error: {
+  "statusCode": 400
+}
+2024-04-11T00:12:52.710Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:12:52 +0000] "POST /person/create HTTP/1.1" 400 28 "insomnia/2023.5.8" 5.409 ms
+
+2024-04-11T00:12:53.916Z error: {
+  "statusCode": 400
+}
+2024-04-11T00:12:53.916Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:12:53 +0000] "POST /person/create HTTP/1.1" 400 28 "insomnia/2023.5.8" 1.355 ms
+
+2024-04-11T00:13:08.359Z info: Master process 19024 is running
+2024-04-11T00:13:08.752Z info: Worker 18396 started. Server is running on port 3333
+2024-04-11T00:13:12.437Z info: Master process 6208 is running
+2024-04-11T00:13:12.825Z info: Worker 6020 started. Server is running on port 3333
+2024-04-11T00:13:13.003Z error: [
+  {
+    "code": "invalid_type",
+    "expected": "date",
+    "received": "string",
+    "path": [
+      "birthDate"
+    ],
+    "message": "Expected date, received string"
+  }
+]
+2024-04-11T00:13:13.007Z info: ::1 - ---- [11/Apr/2024:00:13:13 +0000] "POST /person/create HTTP/1.1" 400 137 "insomnia/2023.5.8" 4.458 ms
+
+2024-04-11T00:15:16.619Z info: Master process 16016 is running
+2024-04-11T00:15:17.027Z info: Worker 17748 started. Server is running on port 3333
+2024-04-11T00:15:27.434Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:15:27.445Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\"error\": \"Internal Server Error\"}"
+}
+2024-04-11T00:15:27.868Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:15:27 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.501 ms
+
+2024-04-11T00:16:17.627Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:16:17.639Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\"error\": \"Internal Server Error\"}"
+}
+2024-04-11T00:16:17.836Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:16:17 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.506 ms
+
+2024-04-11T00:18:00.366Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:18:00.377Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\",\n        message: '{\"error\": \"Internal Server Error\"}',\n        name: \"Error\",\n        statusCode: 500,\n      }"
+}
+2024-04-11T00:18:00.531Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:18:00 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.381 ms
+
+2024-04-11T00:18:33.094Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:18:33.106Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\", \n      }"
+}
+2024-04-11T00:18:33.313Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:18:33 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.269 ms
+
+2024-04-11T00:19:21.803Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:19:21.815Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\", \n      }"
+}
+2024-04-11T00:19:21.977Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:19:21 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.388 ms
+
+2024-04-11T00:19:40.028Z error: {
+  "name": "Error",
+  "statusCode": 400,
+  "message": "Bad Request"
+}
+2024-04-11T00:19:40.039Z error: {
+  "name": "Error",
+  "statusCode": 500,
+  "message": "{\n        error: \"Internal Server Error\", \n      }"
+}
+2024-04-11T00:19:40.198Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:19:40 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.301 ms
+
+2024-04-11T00:20:12.147Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:20:12 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.247 ms
+
+2024-04-11T00:21:15.332Z error: {}
+2024-04-11T00:21:15.335Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:21:15 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 23.575 ms
+
+2024-04-11T00:22:03.783Z info: Master process 16696 is running
+2024-04-11T00:22:04.198Z info: Worker 19128 started. Server is running on port 3333
+2024-04-11T00:22:04.365Z error: {}
+2024-04-11T00:22:04.368Z info: ::1 - ---- [11/Apr/2024:00:22:04 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 23.294 ms
+
+2024-04-11T00:22:19.567Z info: Master process 15692 is running
+2024-04-11T00:22:19.973Z info: Worker 18216 started. Server is running on port 3333
+2024-04-11T00:22:20.197Z error: {}
+2024-04-11T00:22:20.201Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:22:20 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 23.895 ms
+
+2024-04-11T00:22:41.200Z info: Master process 15440 is running
+2024-04-11T00:22:41.580Z info: Worker 18460 started. Server is running on port 3333
+2024-04-11T00:22:42.988Z error: {}
+2024-04-11T00:22:42.992Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:22:42 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 26.191 ms
+
+2024-04-11T00:23:04.622Z info: Master process 10560 is running
+2024-04-11T00:23:05.036Z info: Worker 18892 started. Server is running on port 3333
+2024-04-11T00:23:05.338Z error: {}
+2024-04-11T00:23:05.341Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:23:05 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 26.206 ms
+
+2024-04-11T00:23:10.004Z info: Master process 1952 is running
+2024-04-11T00:23:10.380Z info: Worker 7432 started. Server is running on port 3333
+2024-04-11T00:23:16.312Z error: {}
+2024-04-11T00:23:16.315Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:23:16 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 26.040 ms
+
+2024-04-11T00:23:39.621Z info: Master process 11012 is running
+2024-04-11T00:23:40.003Z info: Worker 12764 started. Server is running on port 3333
+2024-04-11T00:24:01.945Z error: {}
+2024-04-11T00:24:01.948Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:24:01 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 7.855 ms
+
+2024-04-11T00:24:59.531Z error: {}
+2024-04-11T00:24:59.532Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:24:59 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 2.637 ms
+
+2024-04-11T00:25:22.341Z info: Master process 17916 is running
+2024-04-11T00:25:22.746Z info: Worker 19260 started. Server is running on port 3333
+2024-04-11T00:25:22.980Z error: {}
+2024-04-11T00:25:22.983Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:25:22 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 8.085 ms
+
+2024-04-11T00:25:47.335Z info: Master process 16464 is running
+2024-04-11T00:25:47.732Z info: Worker 2400 started. Server is running on port 3333
+2024-04-11T00:25:51.777Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:25:51 +0000] "POST /person/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 20.632 ms
+
+2024-04-11T00:25:57.146Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:25:57 +0000] "GET /person HTTP/1.1" 200 296 "insomnia/2023.5.8" 3.013 ms
+
+2024-04-11T00:26:04.096Z error: {}
+2024-04-11T00:26:04.097Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:26:04 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 5.177 ms
+
+2024-04-11T00:26:13.530Z error: {}
+2024-04-11T00:26:13.531Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:26:13 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 2.182 ms
+
+2024-04-11T00:26:33.874Z info: Master process 18836 is running
+2024-04-11T00:26:34.272Z info: Worker 18356 started. Server is running on port 3333
+2024-04-11T00:26:34.442Z error: {}
+2024-04-11T00:26:34.445Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:26:34 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 7.290 ms
+
+2024-04-11T00:27:08.793Z error: {}
+2024-04-11T00:27:08.794Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:27:08 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 2.639 ms
+
+2024-04-11T00:27:21.339Z info: Master process 17544 is running
+2024-04-11T00:27:21.718Z info: Worker 19384 started. Server is running on port 3333
+2024-04-11T00:27:23.539Z info: Master process 18680 is running
+2024-04-11T00:27:23.941Z info: Worker 19140 started. Server is running on port 3333
+2024-04-11T00:27:24.229Z error: {}
+2024-04-11T00:27:24.233Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:27:24 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 7.496 ms
+
+2024-04-11T00:27:51.197Z info: Master process 18624 is running
+2024-04-11T00:27:51.570Z info: Worker 15880 started. Server is running on port 3333
+2024-04-11T00:27:52.015Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:27:52.018Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:27:52 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 7.564 ms
+
+2024-04-11T00:27:58.822Z info: Master process 13288 is running
+2024-04-11T00:27:59.215Z info: Worker 18836 started. Server is running on port 3333
+2024-04-11T00:27:59.245Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:27:59.249Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:27:59 +0000] "POST /person/create HTTP/1.1" 400 12 "insomnia/2023.5.8" 7.209 ms
+
+2024-04-11T00:28:08.343Z info: Master process 3512 is running
+2024-04-11T00:28:08.744Z info: Worker 2300 started. Server is running on port 3333
+2024-04-11T00:28:08.958Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:28:08.961Z info: ::1 - ---- [11/Apr/2024:00:28:08 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 7.355 ms
+
+2024-04-11T00:28:18.279Z info: Master process 18524 is running
+2024-04-11T00:28:18.670Z info: Worker 17832 started. Server is running on port 3333
+2024-04-11T00:28:18.775Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:28:18.778Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:28:18 +0000] "POST /person/create HTTP/1.1" 400 120 "insomnia/2023.5.8" 7.448 ms
+
+2024-04-11T00:29:10.854Z info: Master process 17924 is running
+2024-04-11T00:29:11.245Z info: Worker 10236 started. Server is running on port 3333
+2024-04-11T00:29:24.844Z info: Master process 12680 is running
+2024-04-11T00:29:25.236Z info: Worker 18132 started. Server is running on port 3333
+2024-04-11T00:29:25.472Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:29:25.475Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:29:25 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 7.734 ms
+
+2024-04-11T00:29:46.830Z info: Master process 18720 is running
+2024-04-11T00:29:47.247Z info: Worker 18380 started. Server is running on port 3333
+2024-04-11T00:29:47.490Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:29:47.490Z error: klsdkldfkl
+2024-04-11T00:29:47.493Z info: ::1 - ---- [11/Apr/2024:00:29:47 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 8.359 ms
+
+2024-04-11T00:30:03.337Z info: Master process 16160 is running
+2024-04-11T00:30:03.740Z info: Worker 18540 started. Server is running on port 3333
+2024-04-11T00:30:03.833Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:30:03.834Z error: klsdkldfkl
+2024-04-11T00:30:03.837Z info: ::1 - ---- [11/Apr/2024:00:30:03 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 8.143 ms
+
+2024-04-11T00:31:14.350Z info: Master process 9232 is running
+2024-04-11T00:31:14.731Z info: Worker 1528 started. Server is running on port 3333
+2024-04-11T00:31:21.511Z info: Master process 13752 is running
+2024-04-11T00:31:21.880Z info: Worker 18600 started. Server is running on port 3333
+2024-04-11T00:31:22.685Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:31:22.686Z error: 0
+2024-04-11T00:31:22.686Z error: false
+2024-04-11T00:31:22.690Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:31:22 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 7.953 ms
+
+2024-04-11T00:31:28.057Z info: Master process 15508 is running
+2024-04-11T00:31:28.460Z info: Worker 19264 started. Server is running on port 3333
+2024-04-11T00:31:28.576Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:31:28.577Z error: false
+2024-04-11T00:31:28.577Z error: false
+2024-04-11T00:31:28.580Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:31:28 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 8.167 ms
+
+2024-04-11T00:31:37.007Z info: Master process 16104 is running
+2024-04-11T00:31:37.396Z info: Worker 2768 started. Server is running on port 3333
+2024-04-11T00:31:37.565Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:31:37.565Z error: E
+2024-04-11T00:31:37.565Z error: [
+2024-04-11T00:31:37.568Z info: ::1 - ---- [11/Apr/2024:00:31:37 +0000] "POST /person/create HTTP/1.1" 400 142 "insomnia/2023.5.8" 7.921 ms
+
+2024-04-11T00:31:55.261Z info: Master process 18244 is running
+2024-04-11T00:31:55.630Z info: Worker 19328 started. Server is running on port 3333
+2024-04-11T00:32:00.380Z info: Master process 19108 is running
+2024-04-11T00:32:00.792Z info: Worker 17212 started. Server is running on port 3333
+2024-04-11T00:32:01.006Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"telephone\"],\"message\":\"Required\"}]"
+2024-04-11T00:32:01.009Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:32:01 +0000] "POST /person/create HTTP/1.1" 400 120 "insomnia/2023.5.8" 7.657 ms
+
+2024-04-11T00:32:17.599Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create(\nUnique constraint failed on the fields: (`email`)"
+2024-04-11T00:32:17.601Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:32:17 +0000] "POST /person/create HTTP/1.1" 400 367 "insomnia/2023.5.8" 21.558 ms
+
+2024-04-11T00:32:18.119Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create(\nUnique constraint failed on the fields: (`email`)"
+2024-04-11T00:32:18.120Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:32:18 +0000] "POST /person/create HTTP/1.1" 400 367 "insomnia/2023.5.8" 5.192 ms
+
+2024-04-11T00:33:26.107Z info: Master process 7932 is running
+2024-04-11T00:33:26.486Z info: Worker 3064 started. Server is running on port 3333
+2024-04-11T00:34:26.883Z info: Master process 18556 is running
+2024-04-11T00:34:27.250Z info: Worker 18784 started. Server is running on port 3333
+2024-04-11T00:35:11.234Z info: Master process 15224 is running
+2024-04-11T00:35:11.853Z info: Worker 1764 started. Server is running on port 3333
+2024-04-11T00:35:25.352Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"aaaa\",\n            email: \"aaaa@aaa.com\",\n            ~~~~~\n            nacionality: \"brazileiro\",\n            document: \"1111\",\n            birthDate: new Date(\"2023-09-07T00:00:00.000Z\"),\n            gender: \"M\",\n            phone: \"11111111111\",\n            telephone: \"11111111111\",\n        ?   id?: String,\n        ?   createdAt?: DateTime,\n        ?   updatedAt?: DateTime,\n        ?   Address?: AddressCreateNestedManyWithoutPersonInput,\n        ?   Document?: DocumentCreateNestedManyWithoutPersonInput\n          }\n        })\n\nUnknown argument `email`. Available options are marked with ?."
+2024-04-11T00:35:25.355Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:35:25 +0000] "POST /person/create HTTP/1.1" 400 987 "insomnia/2023.5.8" 28.027 ms
+
+2024-04-11T00:35:54.787Z info: Master process 19268 is running
+2024-04-11T00:35:55.164Z info: Worker 16784 started. Server is running on port 3333
+2024-04-11T00:36:53.198Z info: Master process 15840 is running
+2024-04-11T00:36:53.567Z info: Worker 18364 started. Server is running on port 3333
+2024-04-11T00:37:04.079Z error: "[{\"code\":\"unrecognized_keys\",\"keys\":[\"email\"],\"path\":[],\"message\":\"Unrecognized key(s) in object: 'email'\"}]"
+2024-04-11T00:37:04.082Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:37:04 +0000] "POST /person/create HTTP/1.1" 400 118 "insomnia/2023.5.8" 7.962 ms
+
+2024-04-11T00:37:11.382Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:37:11 +0000] "POST /person/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 18.076 ms
+
+2024-04-11T00:37:47.312Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:37:47 +0000] "GET /person HTTP/1.1" 200 545 "insomnia/2023.5.8" 3.867 ms
+
+2024-04-11T00:37:48.452Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:00:37:48 +0000] "GET /person HTTP/1.1" 200 545 "insomnia/2023.5.8" 2.097 ms
+
+2024-04-11T14:43:33.582Z info: Master process 23200 is running
+2024-04-11T14:43:34.143Z info: Worker 16980 started. Server is running on port 3333
+2024-04-11T14:43:35.967Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:43:35 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.298 ms
+
+2024-04-11T14:45:34.555Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:45:34 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.392 ms
+
+2024-04-11T14:46:38.131Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:46:38 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.245 ms
+
+2024-04-11T14:47:57.851Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:47:57 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.304 ms
+
+2024-04-11T14:48:37.276Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:48:37 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.279 ms
+
+2024-04-11T14:48:49.570Z info: Master process 19840 is running
+2024-04-11T14:48:49.957Z info: Worker 23428 started. Server is running on port 3333
+2024-04-11T14:48:56.160Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:48:56 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.370 ms
+
+2024-04-11T14:49:15.284Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:49:15 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.317 ms
+
+2024-04-11T14:50:55.548Z info: Master process 23400 is running
+2024-04-11T14:50:55.983Z info: Worker 22712 started. Server is running on port 3333
+2024-04-11T14:51:32.397Z error: "Person not found"
+2024-04-11T14:51:32.401Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:51:32 +0000] "POST /document/create HTTP/1.1" 400 28 "insomnia/2023.5.8" 37.548 ms
+
+2024-04-11T14:51:41.750Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:51:41 +0000] "GET /person HTTP/1.1" 200 545 "insomnia/2023.5.8" 4.926 ms
+
+2024-04-11T14:51:45.624Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:51:45 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 16.791 ms
+
+2024-04-11T14:52:39.926Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:52:39 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 8.704 ms
+
+2024-04-11T14:53:23.235Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:53:23 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.730 ms
+
+2024-04-11T14:55:04.397Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:55:04 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.175 ms
+
+2024-04-11T14:55:59.843Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:55:59 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.249 ms
+
+2024-04-11T14:57:02.684Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:57:02 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.380 ms
+
+2024-04-11T14:59:01.327Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:59:01 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.383 ms
+
+2024-04-11T14:59:53.285Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:14:59:53 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.196 ms
+
+2024-04-11T15:00:29.406Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:00:29 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.334 ms
+
+2024-04-11T15:00:57.184Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:00:57 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.259 ms
+
+2024-04-11T15:04:43.304Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:04:43 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.293 ms
+
+2024-04-11T15:17:14.052Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:17:14 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.299 ms
+
+2024-04-11T15:17:57.035Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:17:57 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.237 ms
+
+2024-04-11T15:18:34.831Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:18:34 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.324 ms
+
+2024-04-11T15:19:52.500Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:19:52 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.405 ms
+
+2024-04-11T15:25:22.046Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:25:22 +0000] "GET / HTTP/1.1" 200 19 "undefined" 4.263 ms
+
+2024-04-11T15:26:33.761Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:26:33 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.319 ms
+
+2024-04-11T15:27:48.415Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:27:48 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.304 ms
+
+2024-04-11T15:28:37.424Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:28:37 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.297 ms
+
+2024-04-11T15:28:50.481Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:28:50 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.261 ms
+
+2024-04-11T15:29:29.500Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:29:29 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.450 ms
+
+2024-04-11T15:30:08.688Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:30:08 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.302 ms
+
+2024-04-11T15:31:40.191Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:31:40 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.345 ms
+
+2024-04-11T15:33:11.741Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:33:11 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.269 ms
+
+2024-04-11T15:33:30.540Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:15:33:30 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.332 ms
+
+2024-04-11T17:00:57.987Z info: Master process 25196 is running
+2024-04-11T17:00:58.446Z info: Worker 21040 started. Server is running on port 3333
+2024-04-11T17:02:53.335Z info: Master process 23436 is running
+2024-04-11T17:02:53.760Z info: Worker 22972 started. Server is running on port 3333
+2024-04-11T17:03:29.994Z info: Master process 18840 is running
+2024-04-11T17:03:30.457Z info: Worker 24356 started. Server is running on port 3333
+2024-04-11T17:03:32.455Z info: Master process 22540 is running
+2024-04-11T17:03:32.909Z info: Worker 22984 started. Server is running on port 3333
+2024-04-11T17:03:49.806Z info: Master process 23448 is running
+2024-04-11T17:03:50.241Z info: Worker 16120 started. Server is running on port 3333
+2024-04-11T17:04:19.103Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:04:19 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 1013 "insomnia/2023.5.8" 24.079 ms
+
+2024-04-11T17:08:35.757Z info: Master process 17044 is running
+2024-04-11T17:08:36.198Z info: Worker 19676 started. Server is running on port 3333
+2024-04-11T17:09:48.761Z info: Master process 23904 is running
+2024-04-11T17:09:49.189Z info: Worker 12064 started. Server is running on port 3333
+2024-04-11T17:10:40.560Z info: Master process 21776 is running
+2024-04-11T17:10:41.008Z info: Worker 21552 started. Server is running on port 3333
+2024-04-11T17:10:42.297Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:10:42 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 31.781 ms
+
+2024-04-11T17:10:50.794Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:10:50 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 1318 "insomnia/2023.5.8" 6.401 ms
+
+2024-04-11T17:11:20.378Z info: Master process 24056 is running
+2024-04-11T17:11:20.822Z info: Worker 22136 started. Server is running on port 3333
+2024-04-11T17:11:23.895Z error: "ENOENT: no such file or directory, open 'C:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\temp\\uploads\\1712855483893-image\\jpeg'"
+2024-04-11T17:11:23.899Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:11:23 +0000] "POST /document/create HTTP/1.1" 400 152 "insomnia/2023.5.8" 7.954 ms
+
+2024-04-11T17:11:53.779Z info: Master process 12116 is running
+2024-04-11T17:11:54.318Z info: Worker 24804 started. Server is running on port 3333
+2024-04-11T17:11:55.670Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:11:55 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 37.610 ms
+
+2024-04-11T17:11:57.964Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:11:57 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 1623 "insomnia/2023.5.8" 6.055 ms
+
+2024-04-11T17:12:04.903Z info: Master process 23584 is running
+2024-04-11T17:12:05.363Z info: Worker 25480 started. Server is running on port 3333
+2024-04-11T17:12:08.206Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:12:08 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 30.860 ms
+
+2024-04-11T17:12:11.091Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:12:11 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 1981 "insomnia/2023.5.8" 6.906 ms
+
+2024-04-11T17:13:07.262Z info: Master process 15624 is running
+2024-04-11T17:13:07.696Z info: Worker 6912 started. Server is running on port 3333
+2024-04-11T17:13:17.480Z info: Master process 24260 is running
+2024-04-11T17:13:18.015Z info: Worker 22980 started. Server is running on port 3333
+2024-04-11T17:13:19.840Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:13:19 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 1981 "insomnia/2023.5.8" 23.382 ms
+
+2024-04-11T17:13:22.850Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:13:22 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 31.244 ms
+
+2024-04-11T17:13:48.485Z info: Master process 5612 is running
+2024-04-11T17:13:48.957Z info: Worker 23888 started. Server is running on port 3333
+2024-04-11T17:13:49.106Z info: ::1 - ---- [11/Apr/2024:17:13:49 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 34.078 ms
+
+2024-04-11T17:13:56.023Z info: Master process 25116 is running
+2024-04-11T17:13:56.508Z info: Worker 21668 started. Server is running on port 3333
+2024-04-11T17:13:57.218Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:13:57 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 77.169 ms
+
+2024-04-11T17:14:00.462Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:14:00 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 2878 "insomnia/2023.5.8" 6.562 ms
+
+2024-04-11T17:14:07.380Z info: Master process 22524 is running
+2024-04-11T17:14:07.869Z info: Worker 23892 started. Server is running on port 3333
+2024-04-11T17:19:14.580Z info: Master process 23964 is running
+2024-04-11T17:19:15.029Z info: Worker 22600 started. Server is running on port 3333
+2024-04-11T17:19:28.471Z info: Master process 968 is running
+2024-04-11T17:19:29.086Z info: Worker 17952 started. Server is running on port 3333
+2024-04-11T17:19:50.368Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:19:50 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.772 ms
+
+2024-04-11T17:20:26.086Z info: Master process 18012 is running
+2024-04-11T17:20:26.618Z info: Worker 17908 started. Server is running on port 3333
+2024-04-11T17:27:02.964Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:27:02 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.333 ms
+
+2024-04-11T17:27:33.301Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:27:33 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.428 ms
+
+2024-04-11T17:28:18.428Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:17:28:18 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.353 ms
+
+2024-04-11T20:34:28.439Z error: "[\n  {\n    \"expected\": \"'RG' | 'CNH'\",\n    \"received\": \"undefined\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"type\"\n    ],\n    \"message\": \"Required\"\n  },\n  {\n    \"code\": \"invalid_type\",\n    \"expected\": \"string\",\n    \"received\": \"undefined\",\n    \"path\": [\n      \"value\"\n    ],\n    \"message\": \"Required\"\n  }\n]"
+2024-04-11T20:34:28.444Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:34:28 +0000] "POST /document/create HTTP/1.1" 400 226 "insomnia/2023.5.8" 17.736 ms
+
+2024-04-11T20:34:42.129Z info: Master process 26192 is running
+2024-04-11T20:34:42.707Z info: Worker 23640 started. Server is running on port 3333
+2024-04-11T20:34:58.139Z info: Master process 30148 is running
+2024-04-11T20:34:58.634Z info: Worker 27656 started. Server is running on port 3333
+2024-04-11T20:35:02.409Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:35:02 +0000] "POST /address/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 57.210 ms
+
+2024-04-11T20:35:06.389Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:35:06 +0000] "GET /person/cluui0dcr0000vcuoprs2vor7 HTTP/1.1" 200 3077 "insomnia/2023.5.8" 19.144 ms
+
+2024-04-11T20:35:13.942Z error: "[\n  {\n    \"code\": \"invalid_type\",\n    \"expected\": \"string\",\n    \"received\": \"undefined\",\n    \"path\": [\n      \"street\"\n    ],\n    \"message\": \"Required\"\n  }\n]"
+2024-04-11T20:35:13.944Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:35:13 +0000] "POST /address/create HTTP/1.1" 400 117 "insomnia/2023.5.8" 2.128 ms
+
+2024-04-11T20:35:17.543Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:35:17 +0000] "POST /address/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 7.870 ms
+
+2024-04-11T20:36:44.817Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:36:44 +0000] "GET /person HTTP/1.1" 200 2 "insomnia/2023.5.8" 2.922 ms
+
+2024-04-11T20:36:47.199Z error: "[{\"code\":\"invalid_type\",\"expected\":\"date\",\"received\":\"string\",\"path\":[\"birthDate\"],\"message\":\"Expected date, received string\"}]"
+2024-04-11T20:36:47.200Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:36:47 +0000] "POST /person/create HTTP/1.1" 400 137 "insomnia/2023.5.8" 6.147 ms
+
+2024-04-11T20:37:15.133Z info: Master process 26484 is running
+2024-04-11T20:37:15.593Z info: Worker 16064 started. Server is running on port 3333
+2024-04-11T20:37:15.699Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:37:15 +0000] "POST /person/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 22.569 ms
+
+2024-04-11T20:37:22.399Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:37:22 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 200 298 "insomnia/2023.5.8" 6.275 ms
+
+2024-04-11T20:37:26.766Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:37:26 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 13.475 ms
+
+2024-04-11T20:37:31.232Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:37:31 +0000] "POST /address/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 6.578 ms
+
+2024-04-11T20:37:33.424Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:37:33 +0000] "GET /person HTTP/1.1" 200 273 "insomnia/2023.5.8" 2.479 ms
+
+2024-04-11T20:37:36.607Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:37:36 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 200 810 "insomnia/2023.5.8" 3.455 ms
+
+2024-04-11T20:37:58.880Z info: Master process 27872 is running
+2024-04-11T20:37:59.320Z info: Worker 5868 started. Server is running on port 3333
+2024-04-11T20:38:02.567Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:38:02 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 200 810 "insomnia/2023.5.8" 22.260 ms
+
+2024-04-11T20:38:05.280Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:38:05 +0000] "GET /person HTTP/1.1" 200 485 "insomnia/2023.5.8" 3.474 ms
+
+2024-04-11T20:39:28.740Z info: Master process 19628 is running
+2024-04-11T20:39:29.190Z info: Worker 29952 started. Server is running on port 3333
+2024-04-11T20:39:39.007Z info: Master process 15376 is running
+2024-04-11T20:39:39.458Z info: Worker 20836 started. Server is running on port 3333
+2024-04-11T20:40:57.884Z info: Master process 26804 is running
+2024-04-11T20:40:58.359Z info: Worker 24896 started. Server is running on port 3333
+2024-04-11T20:41:16.453Z info: Master process 28832 is running
+2024-04-11T20:41:16.903Z info: Worker 27088 started. Server is running on port 3333
+2024-04-11T20:41:47.846Z info: Master process 29204 is running
+2024-04-11T20:41:48.301Z info: Worker 27832 started. Server is running on port 3333
+2024-04-11T20:41:50.558Z info: Master process 29856 is running
+2024-04-11T20:41:51.024Z info: Worker 30024 started. Server is running on port 3333
+2024-04-11T20:41:51.642Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:41:51 +0000] "GET /person HTTP/1.1" 200 485 "insomnia/2023.5.8" 19.000 ms
+
+2024-04-11T20:41:59.760Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:41:59 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 15.274 ms
+
+2024-04-11T20:42:01.945Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:42:01 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 200 692 "insomnia/2023.5.8" 6.115 ms
+
+2024-04-11T20:42:54.615Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:42:54 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 200 692 "insomnia/2023.5.8" 3.969 ms
+
+2024-04-11T20:42:59.887Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:42:59 +0000] "GET /static/1712868119748.jpg HTTP/1.1" 200 134484 "insomnia/2023.5.8" 3.642 ms
+
+2024-04-11T20:43:06.843Z info: Master process 28040 is running
+2024-04-11T20:43:07.282Z info: Worker 13636 started. Server is running on port 3333
+2024-04-11T20:44:08.133Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:44:08 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.445 ms
+
+2024-04-11T20:45:43.806Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:45:43 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.292 ms
+
+2024-04-11T20:47:10.126Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:47:10 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.180 ms
+
+2024-04-11T20:48:08.303Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:48:08 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.122 ms
+
+2024-04-11T20:48:44.018Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:48:44 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.263 ms
+
+2024-04-11T20:48:59.246Z info: ::ffff:127.0.0.1 - ---- [11/Apr/2024:20:48:59 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.209 ms
+
+2024-04-12T00:17:02.763Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:00:17:02 +0000] "GET /person HTTP/1.1" 200 485 "insomnia/2023.5.8" 20.645 ms
+
+2024-04-12T00:54:57.281Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:00:54:57 +0000] "GET / HTTP/1.1" 200 19 "undefined" 2.445 ms
+
+2024-04-12T00:55:47.506Z info: Master process 27188 is running
+2024-04-12T00:55:48.023Z info: Worker 19156 started. Server is running on port 3333
+2024-04-12T00:55:49.746Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:00:55:49 +0000] "GET /person HTTP/1.1" 200 503 "insomnia/2023.5.8" 25.319 ms
+
+2024-04-12T00:57:55.778Z info: ::1 - ---- [12/Apr/2024:00:57:55 +0000] "GET /person HTTP/1.1" 200 503 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.123 ms
+
+2024-04-12T00:57:55.783Z info: ::1 - ---- [12/Apr/2024:00:57:55 +0000] "GET /person HTTP/1.1" 200 503 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.368 ms
+
+2024-04-12T00:58:21.837Z info: ::1 - ---- [12/Apr/2024:00:58:21 +0000] "GET /person HTTP/1.1" 200 503 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.582 ms
+
+2024-04-12T00:59:23.971Z info: Master process 24320 is running
+2024-04-12T00:59:24.416Z info: Worker 21784 started. Server is running on port 3333
+2024-04-12T00:59:27.806Z info: ::1 - ---- [12/Apr/2024:00:59:27 +0000] "GET /person HTTP/1.1" 200 503 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 30.179 ms
+
+2024-04-12T00:59:27.812Z info: ::1 - ---- [12/Apr/2024:00:59:27 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.926 ms
+
+2024-04-12T01:01:38.804Z info: ::1 - ---- [12/Apr/2024:01:01:38 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.031 ms
+
+2024-04-12T01:01:38.809Z info: ::1 - ---- [12/Apr/2024:01:01:38 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.243 ms
+
+2024-04-12T01:01:40.454Z info: ::1 - ---- [12/Apr/2024:01:01:40 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.396 ms
+
+2024-04-12T01:01:40.459Z info: ::1 - ---- [12/Apr/2024:01:01:40 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.154 ms
+
+2024-04-12T01:01:48.641Z info: ::1 - ---- [12/Apr/2024:01:01:48 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.805 ms
+
+2024-04-12T01:01:59.748Z info: ::1 - ---- [12/Apr/2024:01:01:59 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.913 ms
+
+2024-04-12T01:02:44.450Z info: ::1 - ---- [12/Apr/2024:01:02:44 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.861 ms
+
+2024-04-12T01:03:27.123Z info: ::1 - ---- [12/Apr/2024:01:03:27 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.313 ms
+
+2024-04-12T01:03:37.126Z info: ::1 - ---- [12/Apr/2024:01:03:37 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.773 ms
+
+2024-04-12T01:03:41.132Z info: ::1 - ---- [12/Apr/2024:01:03:41 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.308 ms
+
+2024-04-12T01:04:01.125Z info: ::1 - ---- [12/Apr/2024:01:04:01 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.856 ms
+
+2024-04-12T01:04:05.118Z info: ::1 - ---- [12/Apr/2024:01:04:05 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.471 ms
+
+2024-04-12T01:04:08.122Z info: ::1 - ---- [12/Apr/2024:01:04:08 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.507 ms
+
+2024-04-12T01:13:44.544Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"name\"],\"message\":\"Required\"}]"
+2024-04-12T01:13:44.545Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:13:44 +0000] "POST /person/create HTTP/1.1" 400 115 "insomnia/2023.5.8" 6.921 ms
+
+2024-04-12T01:13:49.952Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:13:49 +0000] "POST /person/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 16.784 ms
+
+2024-04-12T01:13:56.615Z error: "[{\"code\":\"invalid_type\",\"expected\":\"string\",\"received\":\"undefined\",\"path\":[\"name\"],\"message\":\"Required\"}]"
+2024-04-12T01:13:56.616Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:13:56 +0000] "POST /person/create HTTP/1.1" 400 115 "insomnia/2023.5.8" 2.319 ms
+
+2024-04-12T01:14:34.804Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:14:34 +0000] "POST /person/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 3.210 ms
+
+2024-04-12T01:14:39.655Z info: ::1 - ---- [12/Apr/2024:01:14:39 +0000] "GET /person HTTP/1.1" 200 1109 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.574 ms
+
+2024-04-12T01:14:39.659Z info: ::1 - ---- [12/Apr/2024:01:14:39 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.266 ms
+
+2024-04-12T01:14:41.798Z info: ::1 - ---- [12/Apr/2024:01:14:41 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.366 ms
+
+2024-04-12T01:14:41.802Z info: ::1 - ---- [12/Apr/2024:01:14:41 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.991 ms
+
+2024-04-12T01:18:34.723Z info: ::1 - ---- [12/Apr/2024:01:18:34 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.310 ms
+
+2024-04-12T01:18:34.728Z info: ::1 - ---- [12/Apr/2024:01:18:34 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.251 ms
+
+2024-04-12T01:19:10.059Z info: ::1 - ---- [12/Apr/2024:01:19:10 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.237 ms
+
+2024-04-12T01:19:50.016Z info: ::1 - ---- [12/Apr/2024:01:19:50 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.229 ms
+
+2024-04-12T01:19:50.024Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"\",\n            nacionality: \"\",\n            document: \"\",\n            birthDate: new Date(\"Invalid Date\"),\n                       ~~~~~~~~~~~~~~~~~~~~~~~~\n            gender: \"\",\n            phone: \"\",\n            telephone: \"\"\n          }\n        })\n\nInvalid value for argument `birthDate`: Provided Date object is invalid. Expected Date."
+2024-04-12T01:19:50.025Z info: ::1 - ---- [12/Apr/2024:01:19:50 +0000] "POST /person/create HTTP/1.1" 400 721 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 7.784 ms
+
+2024-04-12T01:19:50.543Z info: ::1 - ---- [12/Apr/2024:01:19:50 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.228 ms
+
+2024-04-12T01:19:50.547Z info: ::1 - ---- [12/Apr/2024:01:19:50 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.173 ms
+
+2024-04-12T01:21:25.479Z info: ::1 - ---- [12/Apr/2024:01:21:25 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.101 ms
+
+2024-04-12T01:21:25.484Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"\",\n            nacionality: \"\",\n            document: \"\",\n            birthDate: new Date(\"Invalid Date\"),\n                       ~~~~~~~~~~~~~~~~~~~~~~~~\n            gender: \"\",\n            phone: \"\",\n            telephone: \"\"\n          }\n        })\n\nInvalid value for argument `birthDate`: Provided Date object is invalid. Expected Date."
+2024-04-12T01:21:25.486Z info: ::1 - ---- [12/Apr/2024:01:21:25 +0000] "POST /person/create HTTP/1.1" 400 721 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.229 ms
+
+2024-04-12T01:22:09.610Z error: "\nInvalid `Database.person.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreatePersonUseCase.ts:9:48\n\n  6 async execute(data: PersonSchema) {\n  7   try {\n  8     personSchema.parse(data);\n→ 9     const new_person = await Database.person.create({\n          data: {\n            name: \"\",\n            nacionality: \"\",\n            document: \"\",\n            birthDate: new Date(\"Invalid Date\"),\n                       ~~~~~~~~~~~~~~~~~~~~~~~~\n            gender: \"\",\n            phone: \"\",\n            telephone: \"\"\n          }\n        })\n\nInvalid value for argument `birthDate`: Provided Date object is invalid. Expected Date."
+2024-04-12T01:22:09.610Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:22:09 +0000] "POST /person/create HTTP/1.1" 400 721 "insomnia/2023.5.8" 3.207 ms
+
+2024-04-12T01:22:39.254Z info: Master process 28472 is running
+2024-04-12T01:22:39.689Z info: Worker 21648 started. Server is running on port 3333
+2024-04-12T01:22:46.473Z info: Master process 18972 is running
+2024-04-12T01:22:46.932Z info: Worker 19040 started. Server is running on port 3333
+2024-04-12T01:23:04.844Z info: Master process 18112 is running
+2024-04-12T01:23:05.356Z info: Worker 17344 started. Server is running on port 3333
+2024-04-12T01:23:06.282Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:23:06.286Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:23:06 +0000] "POST /person/create HTTP/1.1" 400 910 "insomnia/2023.5.8" 10.338 ms
+
+2024-04-12T01:27:16.031Z info: ::1 - ---- [12/Apr/2024:01:27:16 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 19.097 ms
+
+2024-04-12T01:27:16.035Z info: ::1 - ---- [12/Apr/2024:01:27:16 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.653 ms
+
+2024-04-12T01:27:44.574Z info: ::1 - ---- [12/Apr/2024:01:27:44 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.023 ms
+
+2024-04-12T01:27:44.580Z info: ::1 - ---- [12/Apr/2024:01:27:44 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.478 ms
+
+2024-04-12T01:27:47.029Z info: ::1 - ---- [12/Apr/2024:01:27:47 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.201 ms
+
+2024-04-12T01:27:47.033Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:27:47.034Z info: ::1 - ---- [12/Apr/2024:01:27:47 +0000] "POST /person/create HTTP/1.1" 400 910 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.200 ms
+
+2024-04-12T01:28:15.036Z info: ::1 - ---- [12/Apr/2024:01:28:15 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.179 ms
+
+2024-04-12T01:28:15.038Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:28:15.040Z info: ::1 - ---- [12/Apr/2024:01:28:15 +0000] "POST /person/create HTTP/1.1" 400 910 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.540 ms
+
+2024-04-12T01:29:09.438Z info: ::1 - ---- [12/Apr/2024:01:29:09 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.624 ms
+
+2024-04-12T01:29:09.445Z info: ::1 - ---- [12/Apr/2024:01:29:09 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.087 ms
+
+2024-04-12T01:29:11.916Z info: ::1 - ---- [12/Apr/2024:01:29:11 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.122 ms
+
+2024-04-12T01:29:11.919Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:29:11.920Z info: ::1 - ---- [12/Apr/2024:01:29:11 +0000] "POST /person/create HTTP/1.1" 400 910 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.302 ms
+
+2024-04-12T01:29:44.898Z info: ::1 - ---- [12/Apr/2024:01:29:44 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.124 ms
+
+2024-04-12T01:29:44.901Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:29:44.902Z info: ::1 - ---- [12/Apr/2024:01:29:44 +0000] "POST /person/create HTTP/1.1" 400 910 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.268 ms
+
+2024-04-12T01:30:56.174Z info: ::1 - ---- [12/Apr/2024:01:30:56 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.119 ms
+
+2024-04-12T01:30:56.176Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:30:56.177Z info: ::1 - ---- [12/Apr/2024:01:30:56 +0000] "POST /person/create HTTP/1.1" 400 785 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.180 ms
+
+2024-04-12T01:31:15.425Z info: ::1 - ---- [12/Apr/2024:01:31:15 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.101 ms
+
+2024-04-12T01:31:15.427Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:31:15.428Z info: ::1 - ---- [12/Apr/2024:01:31:15 +0000] "POST /person/create HTTP/1.1" 400 268 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.647 ms
+
+2024-04-12T01:31:22.616Z info: ::1 - ---- [12/Apr/2024:01:31:22 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.103 ms
+
+2024-04-12T01:31:22.618Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]}]"
+2024-04-12T01:31:22.619Z info: ::1 - ---- [12/Apr/2024:01:31:22 +0000] "POST /person/create HTTP/1.1" 400 138 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.483 ms
+
+2024-04-12T01:32:41.433Z info: ::1 - ---- [12/Apr/2024:01:32:41 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.120 ms
+
+2024-04-12T01:32:41.436Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]}]"
+2024-04-12T01:32:41.437Z info: ::1 - ---- [12/Apr/2024:01:32:41 +0000] "POST /person/create HTTP/1.1" 400 138 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.307 ms
+
+2024-04-12T01:32:41.712Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]}]"
+2024-04-12T01:32:41.712Z info: ::1 - ---- [12/Apr/2024:01:32:41 +0000] "POST /person/create HTTP/1.1" 400 138 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.783 ms
+
+2024-04-12T01:32:47.052Z info: ::1 - ---- [12/Apr/2024:01:32:47 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.180 ms
+
+2024-04-12T01:32:47.059Z info: ::1 - ---- [12/Apr/2024:01:32:47 +0000] "POST /person/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.259 ms
+
+2024-04-12T01:33:23.237Z info: ::1 - ---- [12/Apr/2024:01:33:23 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.116 ms
+
+2024-04-12T01:33:23.241Z info: ::1 - ---- [12/Apr/2024:01:33:23 +0000] "POST /person/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.039 ms
+
+2024-04-12T01:33:44.992Z info: ::1 - ---- [12/Apr/2024:01:33:44 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.106 ms
+
+2024-04-12T01:33:44.996Z info: ::1 - ---- [12/Apr/2024:01:33:44 +0000] "POST /person/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.331 ms
+
+2024-04-12T01:35:31.304Z info: ::1 - ---- [12/Apr/2024:01:35:31 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.141 ms
+
+2024-04-12T01:35:31.307Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"name\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"nacionality\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"document\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"birthDate\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:35:31.308Z info: ::1 - ---- [12/Apr/2024:01:35:31 +0000] "POST /person/create HTTP/1.1" 400 910 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.651 ms
+
+2024-04-12T01:35:47.528Z info: ::1 - ---- [12/Apr/2024:01:35:47 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.106 ms
+
+2024-04-12T01:35:47.530Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"gender\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:35:47.531Z info: ::1 - ---- [12/Apr/2024:01:35:47 +0000] "POST /person/create HTTP/1.1" 400 268 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.497 ms
+
+2024-04-12T01:36:38.545Z info: ::1 - ---- [12/Apr/2024:01:36:38 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.092 ms
+
+2024-04-12T01:36:38.547Z error: "[{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"phone\"]},{\"code\":\"too_small\",\"minimum\":1,\"type\":\"string\",\"inclusive\":true,\"exact\":false,\"message\":\"Preencha o campo\",\"path\":[\"telephone\"]}]"
+2024-04-12T01:36:38.548Z info: ::1 - ---- [12/Apr/2024:01:36:38 +0000] "POST /person/create HTTP/1.1" 400 267 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.278 ms
+
+2024-04-12T01:36:46.738Z info: ::1 - ---- [12/Apr/2024:01:36:46 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.117 ms
+
+2024-04-12T01:36:46.744Z info: ::1 - ---- [12/Apr/2024:01:36:46 +0000] "POST /person/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.567 ms
+
+2024-04-12T01:36:50.143Z info: ::1 - ---- [12/Apr/2024:01:36:50 +0000] "GET /person HTTP/1.1" 200 2451 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.695 ms
+
+2024-04-12T01:36:50.151Z info: ::1 - ---- [12/Apr/2024:01:36:50 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.832 ms
+
+2024-04-12T01:37:18.011Z info: ::1 - ---- [12/Apr/2024:01:37:18 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.943 ms
+
+2024-04-12T01:37:25.004Z info: ::1 - ---- [12/Apr/2024:01:37:25 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.666 ms
+
+2024-04-12T01:41:03.035Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:01:41:03 +0000] "GET /person HTTP/1.1" 200 2451 "insomnia/2023.5.8" 2.924 ms
+
+2024-04-12T01:41:57.932Z info: ::1 - ---- [12/Apr/2024:01:41:57 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 12.223 ms
+
+2024-04-12T01:41:57.939Z info: ::1 - ---- [12/Apr/2024:01:41:57 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.791 ms
+
+2024-04-12T01:42:10.854Z info: ::1 - ---- [12/Apr/2024:01:42:10 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.943 ms
+
+2024-04-12T01:42:10.859Z info: ::1 - ---- [12/Apr/2024:01:42:10 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.598 ms
+
+2024-04-12T01:42:23.255Z info: ::1 - ---- [12/Apr/2024:01:42:23 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.531 ms
+
+2024-04-12T01:42:23.260Z info: ::1 - ---- [12/Apr/2024:01:42:23 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.384 ms
+
+2024-04-12T01:43:50.985Z info: ::1 - ---- [12/Apr/2024:01:43:50 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.999 ms
+
+2024-04-12T01:43:52.975Z info: ::1 - ---- [12/Apr/2024:01:43:52 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.346 ms
+
+2024-04-12T01:44:03.971Z info: ::1 - ---- [12/Apr/2024:01:44:03 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.906 ms
+
+2024-04-12T01:44:14.973Z info: ::1 - ---- [12/Apr/2024:01:44:14 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.559 ms
+
+2024-04-12T01:51:20.686Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:11:44\n\n   8 async execute(document: DocumentSchema, person: string) {\n   9   try {\n  10     documentSchema.parse(document);\n→ 11     const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T01:51:20.688Z info: ::1 - ---- [12/Apr/2024:01:51:20 +0000] "POST /document/create HTTP/1.1" 400 599 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 32.045 ms
+
+2024-04-12T01:51:56.687Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:11:44\n\n   8 async execute(document: DocumentSchema, person: string) {\n   9   try {\n  10     documentSchema.parse(document);\n→ 11     const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T01:51:56.688Z info: ::1 - ---- [12/Apr/2024:01:51:56 +0000] "POST /document/create HTTP/1.1" 400 599 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.810 ms
+
+2024-04-12T17:31:23.128Z info: Master process 12708 is running
+2024-04-12T17:31:23.658Z info: Worker 28324 started. Server is running on port 3333
+2024-04-12T17:31:34.836Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:17:31:34 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 34.603 ms
+
+2024-04-12T17:31:53.381Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:17:31:53 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 9.131 ms
+
+2024-04-12T17:32:03.403Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:17:32:03 +0000] "POST /document/create HTTP/1.1" 201 34 "insomnia/2023.5.8" 6.480 ms
+
+2024-04-12T17:32:16.956Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:12:44\n\n   9 try {\n  10   documentSchema.parse(document);\n  11   console.log({ document });\n→ 12   const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T17:32:16.958Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:17:32:16 +0000] "POST /document/create HTTP/1.1" 400 564 "insomnia/2023.5.8" 12.212 ms
+
+2024-04-12T17:32:40.945Z info: ::1 - ---- [12/Apr/2024:17:32:40 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.554 ms
+
+2024-04-12T17:32:49.710Z info: ::1 - ---- [12/Apr/2024:17:32:49 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.872 ms
+
+2024-04-12T17:32:49.715Z info: ::1 - ---- [12/Apr/2024:17:32:49 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.196 ms
+
+2024-04-12T17:32:54.263Z error: "\nInvalid `Database.document.create()` invocation in\nc:\\Users\\Pc\\Documents\\trabalhos\\contracthub-backend\\src\\use_cases\\CreateDocumentUseCase.ts:12:44\n\n   9 try {\n  10   documentSchema.parse(document);\n  11   console.log({ document });\n→ 12   const data = await Database.document.create(\nAn operation failed because it depends on one or more records that were required but not found. No 'Person' record(s) (needed to inline the relation on 'Document' record(s)) was found for a nested connect on one-to-many relation 'DocumentToPerson'."
+2024-04-12T17:32:54.264Z info: ::1 - ---- [12/Apr/2024:17:32:54 +0000] "POST /document/create HTTP/1.1" 400 564 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 7.935 ms
+
+2024-04-12T17:33:22.546Z info: ::1 - ---- [12/Apr/2024:17:33:22 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.331 ms
+
+2024-04-12T17:33:28.669Z info: ::1 - ---- [12/Apr/2024:17:33:28 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.055 ms
+
+2024-04-12T17:34:00.819Z info: ::1 - ---- [12/Apr/2024:17:34:00 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.447 ms
+
+2024-04-12T17:47:22.751Z info: ::1 - ---- [12/Apr/2024:17:47:22 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 31.010 ms
+
+2024-04-12T18:46:29.141Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:18:46:29 +0000] "GET /person/cluvzzf6d0003vcdsuwkyhclx HTTP/1.1" 200 538 "insomnia/2023.5.8" 16.700 ms
+
+2024-04-12T18:46:34.035Z info: ::1 - ---- [12/Apr/2024:18:46:34 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 9.586 ms
+
+2024-04-12T18:46:37.600Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:18:46:37 +0000] "GET /person/cluvzzf6d0003vcdsuwkyhclx HTTP/1.1" 200 596 "insomnia/2023.5.8" 4.349 ms
+
+2024-04-12T19:11:09.411Z info: ::1 - ---- [12/Apr/2024:19:11:09 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 15.671 ms
+
+2024-04-12T19:11:16.916Z info: ::1 - ---- [12/Apr/2024:19:11:16 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 9.819 ms
+
+2024-04-12T19:11:38.849Z info: ::1 - ---- [12/Apr/2024:19:11:38 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.405 ms
+
+2024-04-12T19:11:40.092Z info: ::1 - ---- [12/Apr/2024:19:11:40 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 9.397 ms
+
+2024-04-12T19:11:43.096Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:19:11:43 +0000] "GET /person/cluvzzf6d0003vcdsuwkyhclx HTTP/1.1" 200 739 "insomnia/2023.5.8" 5.149 ms
+
+2024-04-12T19:11:49.383Z info: ::1 - ---- [12/Apr/2024:19:11:49 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 10.354 ms
+
+2024-04-12T19:11:50.003Z info: ::1 - ---- [12/Apr/2024:19:11:50 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 8.391 ms
+
+2024-04-12T19:11:52.298Z info: ::ffff:127.0.0.1 - ---- [12/Apr/2024:19:11:52 +0000] "GET /person/cluvzzf6d0003vcdsuwkyhclx HTTP/1.1" 200 897 "insomnia/2023.5.8" 4.061 ms
+
+2024-04-13T01:06:11.630Z info: Master process 5436 is running
+2024-04-13T01:06:12.068Z info: Worker 8704 started. Server is running on port 3333
+2024-04-13T01:06:37.427Z info: Master process 17168 is running
+2024-04-13T01:06:37.889Z info: Worker 11240 started. Server is running on port 3333
+2024-04-13T01:06:39.617Z info: ::1 - ---- [13/Apr/2024:01:06:39 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 22.011 ms
+
+2024-04-13T01:06:39.622Z info: ::1 - ---- [13/Apr/2024:01:06:39 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.026 ms
+
+2024-04-13T01:35:58.368Z info: ::1 - ---- [13/Apr/2024:01:35:58 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 17.455 ms
+
+2024-04-13T01:35:58.376Z info: ::1 - ---- [13/Apr/2024:01:35:58 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.871 ms
+
+2024-04-13T01:36:09.722Z info: ::1 - ---- [13/Apr/2024:01:36:09 +0000] "GET / HTTP/1.1" 200 19 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.769 ms
+
+2024-04-13T01:36:17.964Z info: ::1 - ---- [13/Apr/2024:01:36:17 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.157 ms
+
+2024-04-13T01:36:17.969Z info: ::1 - ---- [13/Apr/2024:01:36:17 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.830 ms
+
+2024-04-13T01:36:41.715Z info: Master process 17320 is running
+2024-04-13T01:36:42.144Z info: Worker 4876 started. Server is running on port 3333
+2024-04-13T01:36:45.732Z info: ::1 - ---- [13/Apr/2024:01:36:45 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 30.855 ms
+
+2024-04-13T01:36:45.738Z info: ::1 - ---- [13/Apr/2024:01:36:45 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.377 ms
+
+2024-04-13T01:37:05.575Z info: ::1 - ---- [13/Apr/2024:01:37:05 +0000] "OPTIONS /person/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.250 ms
+
+2024-04-13T01:37:05.602Z info: ::1 - ---- [13/Apr/2024:01:37:05 +0000] "POST /person/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 7.260 ms
+
+2024-04-13T01:37:05.609Z info: ::1 - ---- [13/Apr/2024:01:37:05 +0000] "GET /person HTTP/1.1" 200 2788 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.782 ms
+
+2024-04-13T01:37:21.507Z info: ::1 - ---- [13/Apr/2024:01:37:21 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 14.931 ms
+
+2024-04-13T01:37:50.236Z info: ::ffff:127.0.0.1 - ---- [13/Apr/2024:01:37:50 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 425 "insomnia/2023.5.8" 7.014 ms
+
+2024-04-13T01:37:57.485Z info: ::1 - ---- [13/Apr/2024:01:37:57 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.676 ms
+
+2024-04-13T01:38:07.924Z info: ::ffff:127.0.0.1 - ---- [13/Apr/2024:01:38:07 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 483 "insomnia/2023.5.8" 4.412 ms
+
+2024-04-13T01:40:57.327Z info: ::1 - ---- [13/Apr/2024:01:40:57 +0000] "POST /document/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 14.073 ms
+
+2024-04-13T01:41:04.557Z info: ::ffff:127.0.0.1 - ---- [13/Apr/2024:01:41:04 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 562 "insomnia/2023.5.8" 3.648 ms
+
+2024-04-13T01:43:13.058Z info: Master process 7592 is running
+2024-04-13T01:43:13.486Z info: Worker 18984 started. Server is running on port 3333
+2024-04-13T01:43:50.381Z info: ::1 - ---- [13/Apr/2024:01:43:50 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 20.550 ms
+
+2024-04-13T01:43:57.350Z info: ::1 - ---- [13/Apr/2024:01:43:57 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.192 ms
+
+2024-04-13T01:52:29.411Z info: ::1 - ---- [13/Apr/2024:01:52:29 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.271 ms
+
+2024-04-13T01:52:29.425Z info: ::1 - ---- [13/Apr/2024:01:52:29 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.184 ms
+
+2024-04-13T01:52:29.466Z error: "Person not found"
+2024-04-13T01:52:29.467Z info: ::1 - ---- [13/Apr/2024:01:52:29 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 44.965 ms
+
+2024-04-13T01:52:29.471Z error: "Person not found"
+2024-04-13T01:52:29.472Z info: ::1 - ---- [13/Apr/2024:01:52:29 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 43.412 ms
+
+2024-04-13T01:53:13.362Z info: ::1 - ---- [13/Apr/2024:01:53:13 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.846 ms
+
+2024-04-13T01:53:17.657Z info: ::1 - ---- [13/Apr/2024:01:53:17 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.143 ms
+
+2024-04-13T01:53:17.660Z info: ::1 - ---- [13/Apr/2024:01:53:17 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.098 ms
+
+2024-04-13T01:53:17.664Z error: "Person not found"
+2024-04-13T01:53:17.665Z info: ::1 - ---- [13/Apr/2024:01:53:17 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.606 ms
+
+2024-04-13T01:53:17.668Z error: "Person not found"
+2024-04-13T01:53:17.669Z info: ::1 - ---- [13/Apr/2024:01:53:17 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.995 ms
+
+2024-04-13T01:53:33.600Z info: ::ffff:127.0.0.1 - ---- [13/Apr/2024:01:53:33 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 526 "insomnia/2023.5.8" 5.918 ms
+
+2024-04-13T01:54:12.356Z info: Master process 17232 is running
+2024-04-13T01:54:12.886Z info: Worker 4404 started. Server is running on port 3333
+2024-04-13T01:54:16.964Z info: ::1 - ---- [13/Apr/2024:01:54:16 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.158 ms
+
+2024-04-13T01:54:16.980Z info: ::1 - ---- [13/Apr/2024:01:54:16 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.254 ms
+
+2024-04-13T01:54:16.998Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "aaaas",
+             city: "asas",
+             state: "aaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:54:17.002Z error: "Person not found"
+2024-04-13T01:54:17.004Z info: ::1 - ---- [13/Apr/2024:01:54:17 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 27.972 ms
+
+2024-04-13T01:54:17.008Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "1a1a1aa",
+             city: "aaaaa",
+             state: "aaaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:54:17.014Z error: "Person not found"
+2024-04-13T01:54:17.015Z info: ::1 - ---- [13/Apr/2024:01:54:17 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 32.722 ms
+
+2024-04-13T01:55:12.176Z info: Master process 16660 is running
+2024-04-13T01:55:12.637Z info: Worker 18544 started. Server is running on port 3333
+2024-04-13T01:55:16.311Z info: ::1 - ---- [13/Apr/2024:01:55:16 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.071 ms
+
+2024-04-13T01:55:16.325Z info: ::1 - ---- [13/Apr/2024:01:55:16 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.192 ms
+
+2024-04-13T01:55:16.347Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "aaaas",
+             city: "asas",
+             state: "aaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:55:16.350Z error: [object Object]
+2024-04-13T01:55:16.351Z error: "Person not found"
+2024-04-13T01:55:16.353Z info: ::1 - ---- [13/Apr/2024:01:55:16 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 31.253 ms
+
+2024-04-13T01:55:16.356Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "1a1a1aa",
+             city: "aaaaa",
+             state: "aaaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:55:16.360Z error: [object Object]
+2024-04-13T01:55:16.361Z error: "Person not found"
+2024-04-13T01:55:16.362Z info: ::1 - ---- [13/Apr/2024:01:55:16 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 34.485 ms
+
+2024-04-13T01:55:31.895Z info: Master process 18720 is running
+2024-04-13T01:55:32.344Z info: Worker 19376 started. Server is running on port 3333
+2024-04-13T01:56:27.041Z info: Master process 18992 is running
+2024-04-13T01:56:27.481Z info: Worker 18512 started. Server is running on port 3333
+2024-04-13T01:56:31.448Z info: ::1 - ---- [13/Apr/2024:01:56:31 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.051 ms
+
+2024-04-13T01:56:31.463Z info: ::1 - ---- [13/Apr/2024:01:56:31 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.187 ms
+
+2024-04-13T01:56:31.481Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "aaaas",
+             city: "asas",
+             state: "aaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:56:31.484Z error: {
+  "address": {
+    "street": "aaaas",
+    "city": "asas",
+    "state": "aaaa"
+  }
+}
+2024-04-13T01:56:31.485Z error: "Person not found"
+2024-04-13T01:56:31.487Z info: ::1 - ---- [13/Apr/2024:01:56:31 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 28.138 ms
+
+2024-04-13T01:56:31.490Z error: Stack Trace: PrismaClientValidationError: 
+Invalid `Database.address.create()` invocation in
+c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:43
+
+   7 async execute(address: AddressSchema, person: string) {
+   8   try {
+   9     addressSchema.parse(address);
+→ 10     const data = await Database.address.create({
+           data: {
+             street: "1a1a1aa",
+             city: "aaaaa",
+             state: "aaaaa",
+             person: {
+               connect: {
+                 id: undefined,
+         ?       AND?: PersonWhereInput | PersonWhereInput[],
+         ?       OR?: PersonWhereInput[],
+         ?       NOT?: PersonWhereInput | PersonWhereInput[],
+         ?       name?: StringFilter | String,
+         ?       nacionality?: StringFilter | String,
+         ?       document?: StringFilter | String,
+         ?       birthDate?: DateTimeFilter | DateTime,
+         ?       gender?: StringFilter | String,
+         ?       phone?: StringFilter | String,
+         ?       telephone?: StringFilter | String,
+         ?       is_client?: BoolFilter | Boolean,
+         ?       createdAt?: DateTimeFilter | DateTime,
+         ?       updatedAt?: DateTimeFilter | DateTime,
+         ?       Address?: AddressListRelationFilter,
+         ?       Document?: DocumentListRelationFilter
+               }
+             }
+           }
+         })
+
+Argument `connect` of type PersonWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+    at En (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:116:5888)
+    at Cn.handleRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6516)
+    at Cn.handleAndLogRequestError (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:6206)
+    at Cn.request (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:123:5926)
+    at async l (C:\Users\Pc\Documents\trabalhos\contracthub-backend\node_modules\@prisma\client\runtime\library.js:128:9968)
+    at CreateAddressUseCase.execute (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\use_cases\CreateAddressUseCase.ts:10:20)
+    at CreateAddressService (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\services\AddressService.ts:10:21)
+    at create (c:\Users\Pc\Documents\trabalhos\contracthub-backend\src\controllers\AddressController.ts:11:23)
+2024-04-13T01:56:31.495Z error: {
+  "address": {
+    "street": "1a1a1aa",
+    "city": "aaaaa",
+    "state": "aaaaa"
+  }
+}
+2024-04-13T01:56:31.496Z error: "Person not found"
+2024-04-13T01:56:31.497Z info: ::1 - ---- [13/Apr/2024:01:56:31 +0000] "POST /address/create HTTP/1.1" 400 28 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 32.515 ms
+
+2024-04-13T01:57:09.357Z info: ::1 - ---- [13/Apr/2024:01:57:09 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 7.335 ms
+
+2024-04-13T01:57:15.352Z info: ::1 - ---- [13/Apr/2024:01:57:15 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.025 ms
+
+2024-04-13T01:57:22.181Z info: ::1 - ---- [13/Apr/2024:01:57:22 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.226 ms
+
+2024-04-13T01:57:22.184Z info: ::1 - ---- [13/Apr/2024:01:57:22 +0000] "OPTIONS /address/create HTTP/1.1" 204 0 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.240 ms
+
+2024-04-13T01:57:22.190Z info: ::1 - ---- [13/Apr/2024:01:57:22 +0000] "POST /address/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 7.485 ms
+
+2024-04-13T01:57:22.194Z info: ::1 - ---- [13/Apr/2024:01:57:22 +0000] "POST /address/create HTTP/1.1" 201 34 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 8.327 ms
+
+2024-04-13T01:57:39.930Z info: ::ffff:127.0.0.1 - ---- [13/Apr/2024:01:57:39 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 925 "insomnia/2023.5.8" 5.432 ms
+
+2024-04-15T17:28:02.103Z info: Master process 1996 is running
+2024-04-15T17:28:02.553Z info: Worker 12516 started. Server is running on port 3333
+2024-04-15T17:28:35.042Z info: Master process 9136 is running
+2024-04-15T17:28:35.448Z info: Worker 4008 started. Server is running on port 3333
+2024-04-15T17:58:31.254Z info: ::1 - ---- [15/Apr/2024:17:58:31 +0000] "GET /person HTTP/1.1" 200 3187 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 61.953 ms
+
+2024-04-15T17:58:31.259Z info: ::1 - ---- [15/Apr/2024:17:58:31 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.184 ms
+
+2024-04-15T18:03:38.432Z info: ::1 - ---- [15/Apr/2024:18:03:38 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 14.765 ms
+
+2024-04-15T18:03:38.436Z info: ::1 - ---- [15/Apr/2024:18:03:38 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.379 ms
+
+2024-04-15T18:46:10.335Z info: Master process 1884 is running
+2024-04-15T18:46:10.774Z info: Worker 4916 started. Server is running on port 3333
+2024-04-15T18:46:41.632Z info: ::1 - ---- [15/Apr/2024:18:46:41 +0000] "GET /person HTTP/1.1" 200 3187 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 62.407 ms
+
+2024-04-15T18:46:41.637Z info: ::1 - ---- [15/Apr/2024:18:46:41 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.508 ms
+
+2024-04-15T20:02:37.789Z info: ::1 - ---- [15/Apr/2024:20:02:37 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 15.454 ms
+
+2024-04-15T20:03:32.784Z info: ::1 - ---- [15/Apr/2024:20:03:32 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.007 ms
+
+2024-04-15T20:03:43.782Z info: ::1 - ---- [15/Apr/2024:20:03:43 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.706 ms
+
+2024-04-15T20:03:48.784Z info: ::1 - ---- [15/Apr/2024:20:03:48 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.224 ms
+
+2024-04-15T20:28:52.736Z info: ::1 - ---- [15/Apr/2024:20:28:52 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 925 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 18.481 ms
+
+2024-04-15T20:28:52.740Z info: ::1 - ---- [15/Apr/2024:20:28:52 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.776 ms
+
+2024-04-15T20:28:58.079Z info: ::1 - ---- [15/Apr/2024:20:28:58 +0000] "GET /person/cluxffoe60000vcrgsbtvt7s HTTP/1.1" 200 4 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.469 ms
+
+2024-04-15T20:28:58.082Z info: ::1 - ---- [15/Apr/2024:20:28:58 +0000] "GET /person/cluxffoe60000vcrgsbtvt7s HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.088 ms
+
+2024-04-15T20:29:01.064Z info: ::1 - ---- [15/Apr/2024:20:29:01 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.064 ms
+
+2024-04-15T20:29:01.069Z info: ::1 - ---- [15/Apr/2024:20:29:01 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.114 ms
+
+2024-04-15T20:29:03.839Z info: ::1 - ---- [15/Apr/2024:20:29:03 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.910 ms
+
+2024-04-15T20:29:03.844Z info: ::1 - ---- [15/Apr/2024:20:29:03 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.451 ms
+
+2024-04-15T20:29:18.849Z info: ::1 - ---- [15/Apr/2024:20:29:18 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.912 ms
+
+2024-04-15T20:29:31.862Z info: ::1 - ---- [15/Apr/2024:20:29:31 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.371 ms
+
+2024-04-15T20:29:31.867Z info: ::1 - ---- [15/Apr/2024:20:29:31 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.685 ms
+
+2024-04-15T21:12:51.920Z info: ::1 - ---- [15/Apr/2024:21:12:51 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 12.515 ms
+
+2024-04-15T21:12:54.914Z info: ::1 - ---- [15/Apr/2024:21:12:54 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.010 ms
+
+2024-04-15T21:13:47.914Z info: ::1 - ---- [15/Apr/2024:21:13:47 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.503 ms
+
+2024-04-15T21:14:39.335Z info: ::1 - ---- [15/Apr/2024:21:14:39 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.145 ms
+
+2024-04-15T21:14:39.339Z info: ::1 - ---- [15/Apr/2024:21:14:39 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.638 ms
+
+2024-04-15T21:15:59.919Z info: ::1 - ---- [15/Apr/2024:21:15:59 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.898 ms
+
+2024-04-15T21:16:51.516Z info: ::1 - ---- [15/Apr/2024:21:16:51 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.087 ms
+
+2024-04-15T21:16:51.523Z info: ::1 - ---- [15/Apr/2024:21:16:51 +0000] "GET /file/1712972457314.png HTTP/1.1" 200 1047422 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.574 ms
+
+2024-04-15T21:29:29.676Z info: ::1 - ---- [15/Apr/2024:21:29:29 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 13.000 ms
+
+2024-04-15T21:29:38.450Z info: ::1 - ---- [15/Apr/2024:21:29:38 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.551 ms
+
+2024-04-15T21:29:45.418Z info: ::1 - ---- [15/Apr/2024:21:29:45 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.422 ms
+
+2024-04-15T21:29:48.847Z info: ::1 - ---- [15/Apr/2024:21:29:48 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.638 ms
+
+2024-04-15T21:34:22.759Z info: ::1 - ---- [15/Apr/2024:21:34:22 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.663 ms
+
+2024-04-15T21:34:39.034Z info: ::1 - ---- [15/Apr/2024:21:34:39 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.095 ms
+
+2024-04-15T21:34:49.997Z info: ::1 - ---- [15/Apr/2024:21:34:49 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.410 ms
+
+2024-04-15T21:34:54.859Z info: ::1 - ---- [15/Apr/2024:21:34:54 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.726 ms
+
+2024-04-15T21:35:28.615Z info: ::1 - ---- [15/Apr/2024:21:35:28 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.514 ms
+
+2024-04-15T21:35:32.184Z info: ::1 - ---- [15/Apr/2024:21:35:32 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.254 ms
+
+2024-04-15T21:35:32.188Z info: ::1 - ---- [15/Apr/2024:21:35:32 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.147 ms
+
+2024-04-15T21:35:32.191Z info: ::1 - ---- [15/Apr/2024:21:35:32 +0000] "GET /file/1712972457314.png HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.814 ms
+
+2024-04-15T21:35:45.540Z info: ::1 - ---- [15/Apr/2024:21:35:45 +0000] "GET /file/1712972457314.png HTTP/1.1" 200 1047422 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.105 ms
+
+2024-04-15T21:36:29.086Z info: ::1 - ---- [15/Apr/2024:21:36:29 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.523 ms
+
+2024-04-15T21:36:30.247Z info: ::1 - ---- [15/Apr/2024:21:36:30 +0000] "GET /file/1712972457314.png HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.379 ms
+
+2024-04-15T21:36:38.563Z info: ::1 - ---- [15/Apr/2024:21:36:38 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.734 ms
+
+2024-04-15T21:37:51.847Z info: ::ffff:127.0.0.1 - ---- [15/Apr/2024:21:37:51 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 809 "insomnia/2023.5.8" 3.359 ms
+
+2024-04-15T21:37:55.743Z info: ::1 - ---- [15/Apr/2024:21:37:55 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 200 809 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.541 ms
+
+2024-04-15T21:37:55.747Z info: ::1 - ---- [15/Apr/2024:21:37:55 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.803 ms
+
+2024-04-15T21:37:55.762Z info: ::1 - ---- [15/Apr/2024:21:37:55 +0000] "GET /file/1712972457314.png HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.430 ms
+
+2024-04-15T21:38:47.020Z info: ::1 - ---- [15/Apr/2024:21:38:47 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.683 ms
+
+2024-04-15T21:38:47.030Z info: ::1 - ---- [15/Apr/2024:21:38:47 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.552 ms
+
+2024-04-15T21:38:49.167Z info: ::1 - ---- [15/Apr/2024:21:38:49 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.686 ms
+
+2024-04-15T21:38:49.171Z info: ::1 - ---- [15/Apr/2024:21:38:49 +0000] "GET /person/cluxffoe60000vcrgsbtvt7sw HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.885 ms
+
+2024-04-15T21:38:49.187Z info: ::1 - ---- [15/Apr/2024:21:38:49 +0000] "GET /file/1712972457314.png HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 0.529 ms
+
+2024-04-15T21:39:00.158Z info: ::1 - ---- [15/Apr/2024:21:39:00 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.107 ms
+
+2024-04-15T21:39:00.165Z info: ::1 - ---- [15/Apr/2024:21:39:00 +0000] "GET /person HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.616 ms
+
+2024-04-15T21:39:05.686Z info: ::1 - ---- [15/Apr/2024:21:39:05 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 200 860 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.532 ms
+
+2024-04-15T21:39:05.690Z info: ::1 - ---- [15/Apr/2024:21:39:05 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.115 ms
+
+2024-04-15T21:39:05.706Z info: ::1 - ---- [15/Apr/2024:21:39:05 +0000] "GET /file/1712868119748.jpg HTTP/1.1" 200 134484 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.785 ms
+
+2024-04-15T21:39:05.708Z info: ::1 - ---- [15/Apr/2024:21:39:05 +0000] "GET /file/1712867846756.jpg HTTP/1.1" 200 134484 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.843 ms
+
+2024-04-15T21:39:05.709Z info: ::1 - ---- [15/Apr/2024:21:39:05 +0000] "GET /file/1712943094803.jpg HTTP/1.1" 200 134484 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.387 ms
+
+2024-04-15T21:39:05.715Z info: ::1 - ---- [15/Apr/2024:21:39:05 +0000] "GET /file/1712943113372.jpg HTTP/1.1" 200 134484 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.853 ms
+
+2024-04-15T21:39:24.569Z info: ::1 - ---- [15/Apr/2024:21:39:24 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.592 ms
+
+2024-04-15T21:39:32.481Z info: ::1 - ---- [15/Apr/2024:21:39:32 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.487 ms
+
+2024-04-15T21:39:42.656Z info: ::1 - ---- [15/Apr/2024:21:39:42 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.344 ms
+
+2024-04-15T21:40:12.142Z info: ::1 - ---- [15/Apr/2024:21:40:12 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.619 ms
+
+2024-04-15T21:40:28.651Z info: ::1 - ---- [15/Apr/2024:21:40:28 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.292 ms
+
+2024-04-15T21:40:37.311Z info: ::1 - ---- [15/Apr/2024:21:40:37 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.744 ms
+
+2024-04-15T21:40:40.404Z info: ::1 - ---- [15/Apr/2024:21:40:40 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.307 ms
+
+2024-04-15T21:41:08.196Z info: ::1 - ---- [15/Apr/2024:21:41:08 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.284 ms
+
+2024-04-15T21:41:11.476Z info: ::1 - ---- [15/Apr/2024:21:41:11 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.635 ms
+
+2024-04-15T21:41:11.484Z info: ::1 - ---- [15/Apr/2024:21:41:11 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.135 ms
+
+2024-04-15T21:41:11.494Z info: ::1 - ---- [15/Apr/2024:21:41:11 +0000] "GET /file/1712867846756.jpg HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 1.334 ms
+
+2024-04-15T21:41:11.495Z info: ::1 - ---- [15/Apr/2024:21:41:11 +0000] "GET /file/1712868119748.jpg HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 2.079 ms
+
+2024-04-15T21:41:11.500Z info: ::1 - ---- [15/Apr/2024:21:41:11 +0000] "GET /file/1712943094803.jpg HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 6.298 ms
+
+2024-04-15T21:41:11.503Z info: ::1 - ---- [15/Apr/2024:21:41:11 +0000] "GET /file/1712943113372.jpg HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 5.754 ms
+
+2024-04-15T21:41:18.972Z info: ::1 - ---- [15/Apr/2024:21:41:18 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.516 ms
+
+2024-04-15T21:41:27.616Z info: ::1 - ---- [15/Apr/2024:21:41:27 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.783 ms
+
+2024-04-15T21:41:44.547Z info: ::1 - ---- [15/Apr/2024:21:41:44 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.313 ms
+
+2024-04-15T21:42:22.476Z info: ::1 - ---- [15/Apr/2024:21:42:22 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 4.032 ms
+
+2024-04-15T21:42:42.468Z info: ::1 - ---- [15/Apr/2024:21:42:42 +0000] "GET /person/cluvpa8ml0000vce8m0kug8ab HTTP/1.1" 304  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" 3.463 ms
+

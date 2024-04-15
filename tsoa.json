@@ -1,0 +1,12 @@
+{
+  "entryFile": "src/app.ts",
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "controllerPathGlobs": ["src/controllers/**.ts"],
+  "spec": {
+    "outputDirectory": "src/config/dev/swagger",
+    "specVersion": 3
+  },
+  "routes": {
+    "routesDir": "src/infra/http/routes.ts"
+  }
+}

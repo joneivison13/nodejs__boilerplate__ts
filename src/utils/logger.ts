@@ -5,7 +5,11 @@ const logFormat = winston.format.combine(
   winston.format.timestamp(),
   winston.format.errors({ stack: true }),
   winston.format.printf((info) => {
-    let message = `${info.timestamp} ${info.level}: ${info.message}`;
+    let message = `${info.timestamp} ${info.level}: ${
+      typeof info.message === "object"
+        ? JSON.stringify(info.message, null, 2)
+        : info.message
+    }`;
     if (info.stack)
       message = `${info.timestamp} ${info.level}: Stack Trace: ${info.stack}`;
     return message;

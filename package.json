@@ -4,20 +4,25 @@
   "description": "",
   "main": "src/server.ts",
   "scripts": {
-    "test": "npx jest",
+    "test": "npx jest --coverage --verbose",
     "dev": "tsx watch src/index.ts",
-    "start": "npx tsc && node dist/src/index.js",
-    "clear:logs": "node utilities/clearLogs.js"
+    "start": "node dist/src/index.js",
+    "clear:logs": "node utilities/clearLogs.js",
+    "build": "npx tsc"
   },
   "author": "Joneivison13",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.5.2",
     "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "esbuild": "^0.19.7",
     "express": "^4.18.2",
     "morgan": "^1.10.0",
-    "winston": "^3.11.0"
+    "multer": "^1.4.5-lts.1",
+    "tsoa": "^6.2.0",
+    "winston": "^3.11.0",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@babel/core": "^7.23.3",
